@@ -1,0 +1,14 @@
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración local
+.env
+config.local.php
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Configuración de VS Code
+.vscode/
